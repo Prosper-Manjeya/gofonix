@@ -25,7 +25,7 @@ func main() {
 go get github.com/NK8007/gofonix@v0.3.0-alpha
 ```
 
-Requires Go 1.22+. The default build is stdlib-only and has no runtime dependencies.
+Requires Go 1.23.4+ (the minimum set in `go.mod`). The default build is stdlib-only and has no runtime dependencies.
 
 ## Dictionary Setup
 
